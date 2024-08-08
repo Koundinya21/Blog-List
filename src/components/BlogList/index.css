@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.lists {
+  list-style-type: none;
+  width: 70%;
+  margin: auto;
+  padding: 0px;
+}
+
+@media (max-width: 1024px) {
+  .lists {
+    width: 95px;
+  }
+}

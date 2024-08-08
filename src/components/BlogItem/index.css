@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5px;
+}
+.head {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.title {
+  color: #12022f;
+  font-size: 18px;
+  font-weight: bold;
+}
+.date {
+  color: #9aa5b1;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.data {
+  color: #616e7c;
+  font-size: 16px;
+  font-weight: 500;
+}
